@@ -8,16 +8,15 @@
 [https://jeterleebook.gitbooks.io/web-dev-note/content/](https://jeterleebook.gitbooks.io/web-dev-note/content/)
 
 
-## 资料参考
-
-* 重点推荐：**前端开发文档资料：**[**Ruan YiFeng**](https://github.com/ruanyf)
-
-
 ## 目录结构（主要为资料链接和博客）
 
 * [前言介绍](README.md)
 * [HTML与HTML5](document/chapter1.md)
 * [CSS与CSS3](document/chapter2.md)
+
+
+## 资料参考
+* 重点推荐：**前端开发文档资料：**[**Ruan YiFeng**](https://github.com/ruanyf)
 
 
 # License
