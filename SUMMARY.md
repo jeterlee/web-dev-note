@@ -61,7 +61,7 @@
 
 ## Weex
 
-* [前言](weex/READ.md)
+* [前言](weex/README.md)
 
 ## 常用工具
 
